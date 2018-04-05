@@ -1,9 +1,9 @@
 {
-    "name": "beastozavr/Yii2Module",
+    "name": "beastozavr/yii2module",
     "authors": [
         {
             "name": "galaktionov-mv",
-            "email": "galaktionov.mv@gbksoft.com"
+            "email": "beastozavr@ukr.net"
         }
     ],
     "require": {
