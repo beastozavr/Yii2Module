@@ -1,5 +1,5 @@
 <?php
-if (class_exists(\registry\Registry)) {
+if (class_exists(\registry\Registry::class)) {
     include __DIR__ . '/config/config.php';
-    \common\Registry::registerConfig('beastozavr/yii2module', $config);
+    \registry\Registry::registerConfig('beastozavr/yii2module', $config);
 }

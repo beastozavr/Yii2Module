@@ -1,6 +1,6 @@
 <?php
 
-namespace modules;
+namespace beastozavr\yii2module;
 
 /**
  * Created by PhpStorm.

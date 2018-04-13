@@ -10,3 +10,4 @@ $config = [];
 
 $config['option1'] = 'test';
 $config['option2'] = 10;
+$config['class'] = \beastozavr\yii2module\TestClass::class;
