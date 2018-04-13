@@ -13,7 +13,7 @@
     "autoload": {
         "files": ["register.php"],
         "psr-4": {
-            "beastozavr/yii2module\\": "src/"
+            "beastozavr\\yii2module\\": "src/"
         }
     }
 }
